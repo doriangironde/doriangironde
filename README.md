@@ -57,6 +57,7 @@ Interests   →  ML / LLMs · Quantization · Open Source · Design
 - Building and growing **Nero**
 - Diving deeper into machine learning & model engineering
 - Shipping small useful tools in the open
+- I am also hosting all my github repos into my personal homeserver for backup purposes, I don't trust GitHub
 
 ---
 

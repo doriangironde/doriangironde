@@ -67,7 +67,4 @@ Interests   →  ML / LLMs · Quantization · Open Source · Design
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=doriangironde&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000" height="150" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doriangironde&layout=compact&theme=transparent&hide_border=true&bg_color=00000000" height="150" alt="Top languages" />
-
 </div>

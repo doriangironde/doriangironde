@@ -65,6 +65,4 @@ Interests   →  ML / LLMs · Quantization · Open Source · Design
 **Let's build something cool together.**  
 📧 [hello@doriangironde.com](mailto:hello@doriangironde.com)
 
-<br>
-
 </div>

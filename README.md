@@ -18,7 +18,6 @@
 ### About me
 
 I'm an 18-year-old student and founder of **[Nero](https://nero.surf)**, a small web agency based in Vichy (Allier, France).  
-I build hand-crafted websites for local businesses — no templates, no plugins, just clean Astro + Tailwind sites optimized for local SEO.
 
 When I'm not shipping sites for clients, I'm usually:
 - Exploring language models, quantization & ML workflows
@@ -65,5 +64,4 @@ Interests   →  ML / LLMs · Quantization · Open Source · Design
 
 **Let's build something cool together.**  
 📧 [hello@doriangironde.com](mailto:hello@doriangironde.com)
-
 </div>
